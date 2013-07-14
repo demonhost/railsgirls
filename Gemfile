@@ -9,7 +9,7 @@ group :development do
 end
 group :production do
   gem 'pg'
-  gem 'rails\_12factor'
+  gem 'rails_12factor'
 end
 
 # Use carrierwave for file upload
