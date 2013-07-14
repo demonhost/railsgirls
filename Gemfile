@@ -15,6 +15,9 @@ end
 # Use carrierwave for file upload
 gem 'carrierwave'
 
+# Use imagemagick to create thumbnails
+gem 'mini_magick'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
